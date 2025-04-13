@@ -27,8 +27,8 @@ Each assignment is stored in the `assignments/` directory, grouped by category.
 1. [Phishing Email Analysis - Part 1](https://github.com/ties2/infosec-practices/blob/main/phishing-part1.md)
 2. [Phishing Email Analysis - Part 2](https://github.com/ties2/infosec-practices/blob/main/phishing-part2.md)
 3. [Phishing Email Analysis - Part 3](https://github.com/ties2/infosec-practices/blob/main/phishing-part3.md)
-4. [Ransomware Outbreak](assignments/incident-response/ransomware.md)
-5. [Data Exfiltration Detection](assignments/incident-response/exfiltration.md)
+4. [Ransomware Outbreak](https://github.com/ties2/infosec-practices/blob/main/ransomware.md)
+5. [Data Exfiltration Detection](https://github.com/ties2/infosec-practices/blob/main/ransomware.md)
 
 ### IAM
 6. [Privilege Escalation Investigation](assignments/iam/privilege-escalation.md)
