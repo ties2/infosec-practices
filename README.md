@@ -24,7 +24,7 @@ Each assignment is stored in the `assignments/` directory, grouped by category.
 ## Assignments
 
 ### Incident Response
-1. [Phishing Email Analysis - Part 1](assignments/incident-response/phishing-part1.md)
+1. [Phishing Email Analysis - Part 1](https://github.com/ties2/infosec-practices/blob/main/phishing-part1.md)
 2. [Phishing Email Analysis - Part 2](assignments/incident-response/phishing-part2.md)
 3. [Phishing Email Analysis - Part 3](assignments/incident-response/phishing-part3.md)
 4. [Ransomware Outbreak](assignments/incident-response/ransomware.md)
