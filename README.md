@@ -31,23 +31,23 @@ Each assignment is stored in the `assignments/` directory, grouped by category.
 5. [Data Exfiltration Detection](https://github.com/ties2/infosec-practices/blob/main/ransomware.md)
 
 ### IAM
-6. [Privilege Escalation Investigation](assignments/iam/privilege-escalation.md)
-7. [Misconfigured Service Account](assignments/iam/service-account.md)
-8. [Compromised API Key Response](assignments/iam/api-key.md)
-9. [MFA Bypass](assignments/iam/mfa-bypass.md)
-10. [Role Assumption Abuse](assignments/iam/role-abuse.md)
+6. [Privilege Escalation Investigation](https://github.com/ties2/infosec-practices/blob/main/privilege-escalation.md)
+7. [Misconfigured Service Account](https://github.com/ties2/infosec-practices/blob/main/service-account.md)
+8. [Compromised API Key Response](https://github.com/ties2/infosec-practices/blob/main/api-key.md)
+9. [MFA Bypass](https://github.com/ties2/infosec-practices/blob/main/mfa-bypass.md)
+10. [Role Assumption Abuse](https://github.com/ties2/infosec-practices/blob/main/role-abuse.md)
 
 ### Web Log Analysis
-11. [SQL Injection Attempt](assignments/web-log-analysis/sql-injection.md)
-12. [Brute Force Attack](assignments/web-log-analysis/brute-force.md)
-13. [Command Injection Exploit](assignments/web-log-analysis/command-injection.md)
-14. [XSS Detection](assignments/web-log-analysis/xss-detection.md)
-15. [Anomalous Traffic Spike](assignments/web-log-analysis/traffic-spike.md)
+11. [SQL Injection Attempt](https://github.com/ties2/infosec-practices/blob/main/sql-injection.md)
+12. [Brute Force Attack](https://github.com/ties2/infosec-practices/blob/main/brute-force.md)
+13. [Command Injection Exploit](https://github.com/ties2/infosec-practices/blob/main/command-injection.md)
+14. [XSS Detection](https://github.com/ties2/infosec-practices/blob/main/xss-detection.md)
+15. [Anomalous Traffic Spike](https://github.com/ties2/infosec-practices/blob/main/traffic-spike.md)
 
 ### Python Scripting
-16. [Log Parser for IOCs](assignments/python-scripting/log-parser.md)
-17. [File Integrity Checker](assignments/python-scripting/file-integrity.md)
-18. [Network Scanner for Open Ports](assignments/python-scripting/network-scanner.md)
+16. [Log Parser for IOCs](https://github.com/ties2/infosec-practices/blob/main/log-parser.md)
+17. [File Integrity Checker](https://github.com/ties2/infosec-practices/blob/main/file-integrity.md)
+18. [Network Scanner for Open Ports](https://github.com/ties2/infosec-practices/blob/main/network-scanner.md)
 19. [Credential Harvester Detector](assignments/python-scripting/cred-harvester.md)
 20. [Automated Incident Report Generator](assignments/python-scripting/incident-report.md)
 
