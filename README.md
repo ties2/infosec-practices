@@ -48,18 +48,17 @@ Each assignment is stored in the `assignments/` directory, grouped by category.
 16. [Log Parser for IOCs](https://github.com/ties2/infosec-practices/blob/main/log-parser.md)
 17. [File Integrity Checker](https://github.com/ties2/infosec-practices/blob/main/file-integrity.md)
 18. [Network Scanner for Open Ports](https://github.com/ties2/infosec-practices/blob/main/network-scanner.md)
-19. [Credential Harvester Detector](assignments/python-scripting/cred-harvester.md)
-20. [Automated Incident Report Generator](assignments/python-scripting/incident-report.md)
+19. [Credential Harvester Detector](https://github.com/ties2/infosec-practices/blob/main/cred-harvester.md)
+20. [Automated Incident Report Generator](https://github.com/ties2/infosec-practices/blob/main/incident-report.md)
 
 ### Kubernetes
-21. [Pod Privilege Escalation](assignments/kubernetes/pod-escalation.md)
-22. [Exposed Dashboard Exploit](assignments/kubernetes/dashboard-exploit.md)
-23. [Malicious Container Response](assignments/kubernetes/malicious-container.md)
-24. [RBAC Misconfiguration Audit](assignments/kubernetes/rbac-audit.md)
-25. [Network Policy Enforcement](assignments/kubernetes/network-policy.md)
+21. [Pod Privilege Escalation](https://github.com/ties2/infosec-practices/blob/main/pod-escalation.md)
+22. [Exposed Dashboard Exploit](https://github.com/ties2/infosec-practices/blob/main/kuber-dashboard-exploit)
+23. [Malicious Container Response](https://github.com/ties2/infosec-practices/blob/main/malicious-container.md)
+24. [RBAC Misconfiguration Audit](https://github.com/ties2/infosec-practices/blob/main/rbac-audit.md)
+25. [Network Policy Enforcement](https://github.com/ties2/infosec-practices/blob/main/network-policy.md)
 
 ## Contributing
-Feel free to fork this repo, add your own solutions, or suggest improvements via pull requests!
+Feel free to fork this repo, add your solutions, or suggest improvements via pull requests!
 
-## License
-[MIT License](LICENSE) - Free to use and modify.
+
